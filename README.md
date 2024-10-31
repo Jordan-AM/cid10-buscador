@@ -7,7 +7,7 @@ Baixe o repositorio e abra em um editor de texto/entre na pasta pelo terminal.
 ## Prerequisito
 Faça uma conta na https://icd.who.int/icdapi/ <br/>
 Aceite os termos de uso em "API Access" <br/>
-Receba uma client_id e client_secret ao clicar em "View API access key(s)<br/>
+Receba uma client_id e client_secret ao clicar em "View API access key(s)"<br/>
  
 ## Ativando o código
 Escreva no terminal:
